@@ -1,1 +1,1 @@
-A website made for the game Werewolf Online. It was made in 2020 using HTML.
+A website made for the game Werewolf Online. It was created in 2020 using HTML.
